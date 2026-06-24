@@ -25,7 +25,7 @@ Extended the API into a multi-user AI directory with dynamic document ingestion.
 
 ### Challenges and wins
 
-This project took me approximately 2-3 hours The most challenging part was multi tenant system
+This project took me approximately 2-3 hours.The most challenging part was multi tenant system
 
 ---
 
@@ -116,10 +116,4 @@ In this project extension, I tested multi-user queries by providing the user met
 
 ---
 
-## Wrapping Up
 
-I did this project today to learn how to make a RAG system 
-
----
-
----
